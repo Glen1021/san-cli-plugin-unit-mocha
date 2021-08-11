@@ -1,6 +1,6 @@
 {
   "name": "san-cli-plugin-unit-mocha",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "mocha unit testing plugin for san-cli",
   "main": "index.js",
   "repository": {
@@ -8,7 +8,7 @@
     "url": "git@github.com:Glen1021/san-cli-plugin-unit-mocha.git"
   },
   "keywords": [
-    "sab",
+    "san",
     "san-cli",
     "mocha",
     "webpack",
