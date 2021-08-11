@@ -1,6 +1,6 @@
 # san-cli-plugin-unit-mocha
 
-> unit-mocha plugin for san-cli
+> unit-mocha plugin for san-cli@3.0.0
 
 ## Injected Commands
 
